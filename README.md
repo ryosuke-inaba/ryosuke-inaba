@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @ryosuke-inaba
-- 👀 I’m interested in developing Python libraries.
-- 🌱 I’m currently learning more on advanced Python techniques.
-- 💞️ I’m looking to collaborate on anything interesting!
+- 👀 I’m interested in developing in Python and in React Native.
