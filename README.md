@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @ryosuke-inaba
-- 👀 I’m interested in developing in Python and in React Native.
